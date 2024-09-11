@@ -67,7 +67,7 @@ O arquivo `docker-compose.yml` define os seguintes serviços:
 
 Clique na imagem abaixo para acessar o Docker Hub e obter mais informações sobre as imagens utilizadas neste projeto.
 
-[![Docker Hub](https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png)](https://hub.docker.com/)
+[![Docker Hub](https://www.docker.com/wp-content/uploads/2023/08/logo-guide-logos-1.svg)](https://hub.docker.com/)
 
 ## Personalização
 
