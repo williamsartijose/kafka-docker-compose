@@ -1,6 +1,3 @@
-Aqui está a documentação atualizada com todos os comandos do Docker incluídos:
-
----
 
 # Kafka, Zookeeper e Kafdrop com Docker Compose
 
